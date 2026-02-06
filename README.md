@@ -110,12 +110,12 @@
 
 ### Officers at Time of Ratification
 
-- Archon: Cynthia Wu
+- Archon: Solar Li
 - Vice President of Internal Affairs: Nori Melville
-- Vice President of External Affairs: Beatrix Malay
+- Vice President of External Affairs: Cynthia Wu
 - Treasurer: Regan O'Callaghan
-- House Manager: Janna Moussiere
-- Secretary: violet Lu
+- House Manager: Robyn Haney
+- Secretary: Aurora Chen
 
 ## Article I: The Bylaws
 
